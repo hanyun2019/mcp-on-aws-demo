@@ -1,1 +1,1 @@
-# mcp-on—aws-demo
+# mcp-on-aws-demo
