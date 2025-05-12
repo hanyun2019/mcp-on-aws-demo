@@ -1,4 +1,6 @@
 # Hong Kong Weather Forecast Application
+# By Haowen Huang
+# 26 April, 2025
 
 This application uses Amazon Nova Act and Model Context Protocol (MCP) to retrieve Hong Kong's daily weather forecast from the Hong Kong Observatory website.
 
