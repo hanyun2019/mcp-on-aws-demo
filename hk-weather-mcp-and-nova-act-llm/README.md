@@ -1,4 +1,6 @@
 # Agentic Weather Assistant with MCP and Nova Act
+# by Haowen Huang 
+# 12 May, 2025
 
 This project demonstrates how to build an AI agent that uses the Model Context Protocol (MCP) to bridge the gap between large language models and real-world data sources. The agent leverages Amazon Bedrock and Nova Act to create a context-aware application that can retrieve and interpret weather information from the Hong Kong Observatory website.
 
