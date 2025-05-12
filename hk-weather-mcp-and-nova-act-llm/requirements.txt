@@ -1,0 +1,8 @@
+boto3>=1.28.0
+mcp>=0.1.0
+nova-act>=0.1.0
+fastapi>=0.104.1
+uvicorn>=0.24.0
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+botocore>=1.31.0
